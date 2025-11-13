@@ -6,7 +6,7 @@
 >
 > `👤`︲**Auteur :** *Trq-Builds*
 >
-> `🔸`︲**Statut :** En cours d’amélioration... (BETA) ♻️
+> `🔸`︲**Statut :** Bricolage en cours...
 >
 > `🔸`︲**Source :** https://github.com/codewithsadee/vcard-personal-portfolio (MERCI INFINIMENT)
 
