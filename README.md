@@ -55,7 +55,6 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 > [!TIP]
 > Vous trouverez ici la liste de tous les outils, ressources et services utilisés pour la création de ce portfolio.  
 > Les liens correspondants sont accessibles en cliquant sur l’emoji : `🌐`.
-> Liste non définitive soumis à des MaJ.
 
 ---
 
