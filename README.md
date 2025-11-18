@@ -4,15 +4,15 @@
 
 ---
 
-> `🔻`︲**Version :** 1.1 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**
->
-> `👤`︲**Auteur :** *Trq-Builds*
->
-> `🔸`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
->
-> `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
->
-> `🌐`︲**Lien :** https://tariq-laab.netlify.app
+- `🔻`︲**Version :** 1.1 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**
+
+- `👤`︲**Auteur :** *Trq-Builds*
+
+- `🔸`︲**Statut :** **SUSPENDU** (Reherche de Solutions en cours...)
+
+- `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
+
+- `🌐`︲**Lien :** https://tariq-laab.netlify.app
 
 ---
 
