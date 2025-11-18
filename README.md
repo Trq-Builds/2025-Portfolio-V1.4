@@ -27,11 +27,11 @@ L’objectif est de **présenter les compétences, réalisations et projets** r�
 - Un **déploiement instantané sur Netlify** sans build ni configuration additionnelle,
 - Une **navigation fluide et accessible** pour le jury.
 
-> ⚙️ ︲**Technique :**
-> - HTML5 sémantique & CSS3 moderne.  
-> - Thème sombre en CSS pur.  
-> - Design responsive minimaliste.  
-> - Hébergement sur [Netlify](https://www.netlify.com/).
+⚙️ ︲**Technique :**
+- HTML5 sémantique & CSS3 moderne.  
+- Thème sombre en CSS pur.  
+- Design responsive minimaliste.  
+- Hébergement sur [Netlify](https://www.netlify.com/).
 
 ---
 
