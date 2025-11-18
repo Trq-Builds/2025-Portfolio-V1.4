@@ -8,7 +8,7 @@
 >
 > `👤`︲**Auteur :** *Trq-Builds*
 >
-> `🔸`︲**Statut :** Opérationel à 10%. (Modifications à faire)
+> `🔸`︲**Statut :** Opérationel à 10%. (Beaucoup de modifications à faire, mais il est au moins accessible.)
 >
 > `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 >
@@ -23,9 +23,9 @@
 Ce projet correspond à la **création d’un portfolio personnel** servant de support à l’épreuve **E5** du BTS SIO.  
 L’objectif est de **présenter les compétences, réalisations et projets** réalisés durant la formation, dans un format web clair, accessible et entièrement statique.
 
-- une **maintenance simplifiée** et une compatibilité maximale,
-- un **déploiement instantané sur Netlify** sans build ni configuration additionnelle,
-- une **navigation fluide et accessible** pour le jury.
+- Une **maintenance simplifiée** et une compatibilité maximale,
+- Un **déploiement instantané sur Netlify** sans build ni configuration additionnelle,
+- Une **navigation fluide et accessible** pour le jury.
 
 > ⚙️ ︲**Technique :**
 > - HTML5 sémantique & CSS3 moderne.  
