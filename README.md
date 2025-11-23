@@ -54,7 +54,6 @@ Arborescence ASCII :
 * `📱` `💻` `🖥️` **Design responsive** via media queries (4 breakpoints : 580px, 768px, 1024px, 1250px).
 * `🌙` `🎛️` **Thème sombre fixe** avec palette de couleurs cohérente.
 * `⚡` `📜` **JavaScript vanilla** pour navigation et filtres (sans dépendances).
-* `🚀` `🔍` **Optimisé pour le référencement** (structure sémantique, meta tags).
 
 **Architecture :**
 - Fichier CSS **unique** (non modularisé) intégrant responsive et animations.
