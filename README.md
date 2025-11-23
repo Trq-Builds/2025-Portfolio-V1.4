@@ -30,7 +30,7 @@ L’objectif est de **présenter les compétences, réalisations et projets** r�
 ` ⚙️ ` ︲**Technique :**
 - HTML5 sémantique & CSS3 moderne.  
 - Thème sombre en CSS pur.  
-- Design entirement responsive minimaliste.  
+- Design responsive minimaliste.  
 - Hébergement sur [Netlify](https://www.netlify.com/).
 
 ---
