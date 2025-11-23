@@ -19,6 +19,27 @@
 ## ` 📘 `︲Description du projet.
 
 ---
+Arborescence ASCII : 
+```markdown
+2025-Portfolio-V1.4/
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css        # Feuille de style principale
+│   │   └── responsive.css   # (Optionnel) Gestion spécifique des media queries
+│   ├── img/
+│   │   ├── profile.jpg      # Photo de profil
+│   │   ├── projects/        # Screenshots des projets
+│   │   └── icons/           # Icônes (SVG ou PNG)
+│   └── js/
+│       └── main.js          # Scripts légers (ex: menu burger, scroll smooth)
+│
+├── index.html               # Point d'entrée principal (Structure Sémantique)
+└── README.md                # Documentation du projet
+
+```
+
+---
 
 Ce projet correspond à la **création d’un portfolio personnel** servant de support à l’épreuve **E5** du BTS SIO.  
 L’objectif est de **présenter les compétences, réalisations et projets** réalisés durant la formation, dans un format web clair, accessible et entièrement statique.
